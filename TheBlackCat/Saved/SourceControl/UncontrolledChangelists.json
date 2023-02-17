@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Cours/GameSup/GD1/#Workshop#/GS_AdventureGame_WS_2023-main/GS_AdventureGame_WS_2023/TheBlackCat/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Cours/GameSup/GD1/#Workshop#/GS_AdventureGame_WS_2023-main/GS_AdventureGame_WS_2023/TheBlackCat/Content/Levels/TestMetrics_Chambre.umap",
+				"D:/Cours/GameSup/GD1/#Workshop#/GS_AdventureGame_WS_2023-main/GS_AdventureGame_WS_2023/TheBlackCat/Content/Layouts/Chambre_LayoutSansLeg_Mat.uasset",
+				"D:/Cours/GameSup/GD1/#Workshop#/GS_AdventureGame_WS_2023-main/GS_AdventureGame_WS_2023/TheBlackCat/Content/Layouts/Chambre_LayoutSansLeg.uasset",
 				"D:/Document/UnrealProjects/GS_AdventureGame_WS_2023/TheBlackCat/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Document/UnrealProjects/GS_AdventureGame_WS_2023/TheBlackCat/Content/Config/Input/IAction_Interact.uasset",
 				"D:/Document/UnrealProjects/GS_AdventureGame_WS_2023/TheBlackCat/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
@@ -24,7 +28,6 @@
 				"D:/Document/UnrealProjects/GS_AdventureGame_WS_2023/TheBlackCat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TA/5GRJD4FTVGUHDSR05GG9DJ.uasset",
 				"D:/Document/UnrealProjects/GS_AdventureGame_WS_2023/TheBlackCat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Document/UnrealProjects/GS_AdventureGame_WS_2023/TheBlackCat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/5P/RZ0L5LSKQ04J2GCSSR3R39.uasset",
-				"D:/Document/UnrealProjects/GS_AdventureGame_WS_2023/TheBlackCat/Content/BlueprintActors/CameraManager/BP_CameraManager.uasset",
 				"D:/Document/UnrealProjects/TheBlackCat/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Document/UnrealProjects/TheBlackCat/Content/Levels/GA_Metrics_Test.umap"
 			]
