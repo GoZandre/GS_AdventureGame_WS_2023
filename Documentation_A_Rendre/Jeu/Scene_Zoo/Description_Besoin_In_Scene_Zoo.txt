@@ -1,0 +1,2 @@
+Une scène « Zoo » Sous la forme d’une scène Maya contenant l’ensemble des assets produits 
+organisés par catégories (puis par personnes / membres du groupe). Rendu en format .MB
