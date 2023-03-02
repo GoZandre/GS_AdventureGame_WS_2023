@@ -1,0 +1,18 @@
+Rôles de chacun :
+
+
+•	GA
+-	Leny MOYNAT : Props, Tech Art, Level Art, lighting.
+-	Sarah EL OUARADI : Level Art, props, 2D, lighting, Lead GA.
+-	Maxence VIRIOT : Création de meshs et de texture, scène zoo, lighting.
+-	Jules LEVRA-JUILLET : Chara Design, Level Art, props, environment texture, lighting.
+
+
+
+
+
+•	GD
+-	Florent LOISELEUR : Narration, Level Design, traduction, Game Design.
+-	Dorian ALEXANDRE : Gestion de production, Tech Designer, Lead GD, Game Design.
+-	Max FERRIER : Game Design.
+-	Kevin DIJOUX : Level Design, narration, Game Design.
